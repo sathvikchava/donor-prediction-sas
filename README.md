@@ -51,7 +51,7 @@ The final scoring process created:
 - `p_damt`: Predicted donation amount
 
 **Profit Formula:**
-```math
+
 Expected Profit = (p_donr1 × p_damt) - 2.00
 
 
